@@ -1,0 +1,12 @@
+{
+  "name": "esprimaTest",
+  "version": "0.0.0",
+  "description": "i want to play with esprima",
+  "repository": "",
+  "keywords": [
+    "esprima",
+    "foo"
+  ],
+  "author": "jchan",
+  "license": "apache"
+}
